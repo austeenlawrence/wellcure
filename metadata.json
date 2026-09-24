@@ -1,0 +1,6 @@
+{
+  "name": "Wellcure Homeopathy Clinic",
+  "description": "Premium homeopathic healthcare led by Dr. Rahul Sharma in Bulandshahr, UP. Specialized care for Pediatric Care, Kidney Stones, Allergies, and Acne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
